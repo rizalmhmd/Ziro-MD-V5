@@ -22,9 +22,9 @@ conn.sendFile(m.chat, x.result.link[1].link, 'asupan.mp4', caption, m)
 		throw e;
 	}
 }
-handler.help = ["xnxxdl", "dlxnxx"].map(v => v + ' <url>')
+handler.help = ["xnxxdl"].map(v => v + ' <url>')
 handler.tags = ["downloader", 'premium']
-handler.command = /^(xnxxdl|dlxnxx)$/i
+handler.command = /^(xnxxdl)$/i
 handler.register = true
 handler.premium = true
 handler.private = false
