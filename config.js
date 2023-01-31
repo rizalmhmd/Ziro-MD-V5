@@ -261,6 +261,7 @@ global.APIs = { // API Prefix
   neoxr: 'https://neoxr-api.herokuapp.com',
   zeks: 'https://api.zeks.me',
   bear: 'https://saipulanuar.ga',
+  ibeng: 'https://api.ibeng.tech',
   pencarikode: 'https://pencarikode.xyz',
   ana: 'https://anabotofc.herokuapp.com/',
   amel: 'https://melcanz.com',
